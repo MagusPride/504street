@@ -1,0 +1,18 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+div {
+    margin-left: 20px;
+}
+
+h1#web-title a {
+    color: red;
+    text-decoration: none;
+}
+
+.h3IndexSection {
+    margin-bottom: -15px;
+}
+
